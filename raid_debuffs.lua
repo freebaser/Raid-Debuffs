@@ -20,6 +20,9 @@ FreebgridDebuffs = {
 		[GetSpellInfo(10890)] = 3, -- Psychic Scream
 		[GetSpellInfo(17928)] = 3, -- Howl of Terror
 	},
+	buffs = {
+		--[GetSpellInfo(871)] = 15, -- Shield Wall
+	},
 	instances = {
 		--[[
 		["Zone"] = {
