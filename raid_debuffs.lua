@@ -29,6 +29,12 @@ FreebgridDebuffs = {
 			[Name or GetSpellInfo(#)] = PRIORITY,
 		},
 		]]--
+		["The Ruby Sanctum"] = {
+			[GetSpellInfo(74562)] = 6, -- Fiery Combustion
+			[GetSpellInfo(75883)] = 5, -- Combustion
+			[GetSpellInfo(74792)] = 6, -- Soul Consumption
+			[GetSpellInfo(75876)] = 5, -- Consumption
+		},
 		["Icecrown Citadel"] = {
 			--The Lower Spire
 			[GetSpellInfo(70980)] = 6, -- Web Wrap
